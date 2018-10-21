@@ -5,9 +5,9 @@ The api will return json responses in this form:
 
 ```json
 {
-event: "",
+event: '',
 data: [],
-timestamp: ''
+commitID: '',
 }
 ```
 
