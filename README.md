@@ -3,8 +3,7 @@ Tool for productivity measuring
 
 The api will return json responses in this form:
 
-'''
-json
+'''json
 {
 event: "",
 data: [],
