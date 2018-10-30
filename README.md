@@ -1,3 +1,2 @@
-# productixTool
-Tool for productivity measuring
+# Commit Counter for bitbucket
 
